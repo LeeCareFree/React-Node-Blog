@@ -1,0 +1,7 @@
+.nf_container{
+    background: #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

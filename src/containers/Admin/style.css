@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background: white;
+    position: fixed;
+    top:0;
+    height: 100%;
+    width: 100%;
+}
+.container .menuContainer{
+    width: 15%;
+    background: #404040;
+}
+.container .contentContainer{
+    width: 85%;
+    overflow-y: scroll;
+    padding: 20px;
+}
+
+.container .contentContainer h2 {
+    font-size: 2em;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 0 0 0.7em 0;
+}

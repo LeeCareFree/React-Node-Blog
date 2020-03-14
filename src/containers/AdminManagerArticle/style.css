@@ -1,0 +1,17 @@
+.adminArticleListContainer {
+
+    overflow: scroll;
+}
+
+.adminArticleListContainer h2 {
+    margin: 0;
+}
+
+.adminArticleListContainer p {
+    margin: 0;
+}
+
+.paginationStyle{
+    margin-top: 20px;
+    text-align: center;
+}
