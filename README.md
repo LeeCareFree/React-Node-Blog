@@ -8,3 +8,15 @@
 - [x] 管理员文章管理
 - [x] 管理员标签管理
 - [x] 发文（支持MarkDown语法）
+## 后端部分
+- [x] mongoose数据库操作
+- [x] 路由管理
+- [x] 身份验证
+- [x] 基本的增删改查
+## 运行
+
+    git clone https://github.com/LeeCareFree/React-Node-Blog
+    
+    npm i
+    
+    npm start
